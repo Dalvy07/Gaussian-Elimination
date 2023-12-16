@@ -1,3 +1,4 @@
+CHECK CODE TAB!!! 
 For equation:
 a1X1 + b1X2 + c1X3 = d1
 a2X1 + b2X2 + c2X3 = d2
